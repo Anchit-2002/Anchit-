@@ -2,8 +2,8 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine       Learning 
 - 💞️ I’m looking to collaborate on          ML Industrial projects
-- 📫 How to reach me through LinkedIn
-     
+- 📫 How to reach me through    LinkedIn
+   https://www.linkedin.com/in/anchitya-kumar-898929209  
   
 
 <!---
