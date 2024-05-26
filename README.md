@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Anchitya Kumar 
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine       Learning 
-- 💞️ I’m looking to collaborate on          ML Industrial projects
-- 📫 How to reach me through    LinkedIn
+- 👀 I’m interested in Data Science and Machine Learning 
+- 🌱 I’m currently learning Computer Vision and exploring LLMS
+- 💞️ I’m looking to collaborate on  projects which is based on my interest and skills
+- 📫 How to reach me through  LinkedIn
    https://www.linkedin.com/in/anchitya-kumar-898929209  
   
 
